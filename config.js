@@ -4,7 +4,7 @@
 
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['u', 'u']
-global.owner = ['62895372305081', '6285747223233'] // Owner isi yg sebelah kanan
+global.owner = ['6283842942635', '6285747223233'] // Owner isi yg sebelah kanan
 global.mods = ['62895372305081', '6285783417029'] // moderator
 global.prems = ['62895372305081', '6285747223233']  //premium
 global.wait = 'Await'
